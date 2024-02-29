@@ -14,4 +14,4 @@
 This repository contains the practical and workshop notebooks for the AMLD Workshop
 2024, held at the USIU-Africa, Nairobi, Kenya.
 
-See [xy](xy) for more details.
+See [AMLD Africa](https://appliedmldays.org/events/amld-africa-2024/workshops) for more details.
