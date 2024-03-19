@@ -1,5 +1,14 @@
 # Computer-Vision-and-Generative-AI
 
+Learn how computers process and understand image data, then harness the power of the latest Generative AI models to create new images.
+
+What you'll learn:
+
+1. Computer vision with KerasCV
+2. How to do image classification / image recognition with a pretrained model and fine-tuning / transfer learning
+3. How to do object detection with a pretrained model and fine-tuning / transfer learning
+4. How to generate images with Stable Diffusion in KerasCV
+
 ## The Practicals
 
 | Topic 💥 | Description 📘|
